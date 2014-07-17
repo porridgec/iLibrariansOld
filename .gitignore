@@ -5,7 +5,9 @@
 
 iLibrariansOld/iLibrariansOld.xcodeproj/project.xcworkspace/xcuserdata/bloodshed.xcuserdatad/UserInterfaceState.xcuserstate
 
+iLibrariansOld / iLibrarians.xcodeproj / project.xcworkspace / xcshareddata / iLibrarians.xccheckout
 *.pbxproj
 
 *.xcbkptlist
 *.xcuserstate
+*.xccheckout
