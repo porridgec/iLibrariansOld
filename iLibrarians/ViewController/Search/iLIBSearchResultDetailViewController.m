@@ -11,7 +11,7 @@
 #import "iLIBBookItem.h"
 #import "MBProgressHUD.h"
 
-#define kHostUrl @"libapi.insysu.com/v1"
+#define kHostUrl @"libapi.insysu.com"
 
 #define aRGB(a,r,g,b) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:a/1.0f]
 

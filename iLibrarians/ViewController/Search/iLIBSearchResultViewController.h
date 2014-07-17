@@ -10,7 +10,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "iLIBEngine.h"
 
-#define kHostUrl @"libapi.insysu.com/v1"
+#define kHostUrl @"libapi.insysu.com"
 
 @interface iLIBSearchResultViewController : UIViewController <UITableViewDelegate,UITableViewDataSource>
 
