@@ -1,0 +1,11 @@
+.DS_Store
+*.xcuserstate
+*.xcscheme
+*.plist
+
+iLibrariansOld/iLibrariansOld.xcodeproj/project.xcworkspace/xcuserdata/bloodshed.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.pbxproj
+
+*.xcbkptlist
+*.xcuserstate
